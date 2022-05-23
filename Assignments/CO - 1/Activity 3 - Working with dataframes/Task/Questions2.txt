@@ -1,0 +1,5 @@
+8.How many unique job title are there?
+9. List the top 3 most common jobs.
+10.How many job titles were represented by only one person in 2011, 2012, and 2013?
+11. How many people have the word Chief in their job title?
+12. Is there a correlation between Job title and Salary?

@@ -1,0 +1,6 @@
+1. What is the current data type of the Date column?
+2. Change the Date column to a datetime format.
+3. Set the Date column to be the new index
+4. Plot the dataframe with a simple line plot. What do you notice about the plot?
+5. Add a column called 'Month' that takes the month value from the index. What is your observation?
+6. Create a boxplot by month field.

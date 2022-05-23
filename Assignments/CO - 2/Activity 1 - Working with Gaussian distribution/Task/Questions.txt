@@ -1,0 +1,10 @@
+1. Plot a probability density function for Gaussian Distribution
+2. Create a sample of random Gaussian numbers with mean 50 and standard deviation 5. Plot the distribution.
+3. Plot a sample of Gaussian random numbers.
+4. Plot histogram of random Gaussian numbers with bins size 50. Also, plot the sample by varying the bin size and write the observation.
+5. Calculate mean
+6. For the random gaussian distribution plotted in Q.2 find quartiles and five-number summary.
+7. Consider the hypothesis " The sample is drawn from Gaussian Distribution". Report the test statistics on the hypothesis using the following normality test methods.
+Shapiro-Wilk test
+D'Agostino's K squared Test
+Anderson-Darling Test
